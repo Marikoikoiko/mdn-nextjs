@@ -6,9 +6,10 @@ type Props = {
   title: string;
   src: string;
   slug?: string;
+  caption?: string;
 };
 
-const CoverImage = ({ title, src, slug }: Props) => {
+const CoverImage = ({ title, src, slug, caption }: Props) => {
   const image = (
     <Image
       src={src}
@@ -28,6 +29,9 @@ const CoverImage = ({ title, src, slug }: Props) => {
         </Link>
       ) : (
         image
+      )}
+      {caption && (
+        <p className="font-alice text-sm text-gray-500 mt-2">{caption}</p> 
       )}
     </div>
   );

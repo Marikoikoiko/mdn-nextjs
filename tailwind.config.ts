@@ -21,6 +21,12 @@ const config: Config = {
         success: "#0070f3",
         cyan: "#79FFE1",
       },
+      fontFamily: {
+        sans: ['Graphik', 'sans-serif'],
+        serif: ['MerriweatherA', 'serif'],
+        alice: ['Alice', 'serif'], 
+        lato: ['Lato', 'sans-serif']
+      },
       spacing: {
         28: "7rem",
       },
