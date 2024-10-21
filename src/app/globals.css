@@ -6,3 +6,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    .blog-content a {
+      @apply text-link; /* Apply the default link color */
+      text-decoration: none; /* Prevent underlining by default */
+    }
+    .blog-content a:hover {
+      @apply text-link-hover; /* Apply hover color */
+      text-decoration: underline; /* underlining on hover */
+    }
+    .blog-content a:visited {
+      @apply text-link-visited; /* Apply visited color */
+      text-decoration: none; /* Prevent underlining on visited state */
+    }
+  }

@@ -27,7 +27,9 @@ export default async function Post({ params }: Params) {
             caption={post.caption}
             date={post.date}
           />
-          <PostBody content={content} />
+          <div className="blog-content">
+            <PostBody content={content} />
+          </div>
         </article>
       </Container>
     </main>
