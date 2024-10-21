@@ -1,8 +1,6 @@
 
 import CoverImage from "@/app/_components/cover-image";
-import { Author } from "../../interfaces/author";
 import Link from "next/link";
-// import DateFormatter from "./date-formatter";
 
 
 type Props = {
