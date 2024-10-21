@@ -1,16 +1,16 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/JoshuaTree2000x1000.jpg"
-caption: "test caption 1"
-date: "2020-03-16T05:35:07.322Z"
+title: "Personal site deep dive"
+excerpt: "Here's a low down of what this blog is made of and why I made the choices I did. Being a software engineer means that there are choices you make for every product that you make. The reasoning for these choices are just as important as what you choose. So, here's the why to this personal site:"
+coverImage: "/assets/blog/preview/hanging_hammocks_joshua_tree.jpg"
+caption: "test caption 3"
+date: "2023-03-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: Mariko Iwata
 ogImage:
-  url: "/assets/blog/dynamic-routing/JoshuaTree2000x1000.jpg"
+  url: "/assets/blog/preview/hanging_hammocks_joshua_tree.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Here's a low down of what this blog is made of and why I made the choices I did. Being a software engineer means that there are choices you make for every product that you make. The reasoning for these choices are just as important as what you choose. So, here's the why to this personal site:
 
 Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
 

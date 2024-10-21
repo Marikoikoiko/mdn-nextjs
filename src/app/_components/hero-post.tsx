@@ -1,9 +1,8 @@
 
-import Avatar from "@/app/_components/avatar";
 import CoverImage from "@/app/_components/cover-image";
 import { Author } from "../../interfaces/author";
 import Link from "next/link";
-import DateFormatter from "./date-formatter";
+// import DateFormatter from "./date-formatter";
 
 
 type Props = {
@@ -11,7 +10,6 @@ type Props = {
     coverImage: string;
     date: string;
     excerpt: string;
-    author: Author;
     slug: string;
     caption?: string;
 };

@@ -1,11 +1,11 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
+title: "SafeQL: a developer tool for GraphQL API Security and Performance Testing"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 coverImage: "/assets/blog/hello-world/sand_with_design_mariko_iwata.jpg"
-caption: "test caption 2"
-date: "2020-03-16T05:35:07.322Z"
+caption: "Sand with patterns c.2024 "
+date: "2024-06-16T05:35:07.322Z"
 author:
-  name: Tim Neutkens
+  name: Mariko Iwata
 ogImage:
   url: "/assets/blog/hello-world/sand_with_design_mariko_iwata.jpg"
 ---
