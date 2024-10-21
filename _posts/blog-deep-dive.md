@@ -12,4 +12,10 @@ ogImage:
 
 Here's a low down of what this blog is made of and why I made the choices I did. Being a software engineer means that there are choices you make for every product that you make. The reasoning for these choices are just as important as what you choose. So, here's the why to this personal site:
 
-more to come...
+## Next.js App Directory
+
+## MDX
+next-mdx-remote
+
+## Vercel for Production
+

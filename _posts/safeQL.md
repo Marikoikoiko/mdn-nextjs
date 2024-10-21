@@ -1,6 +1,6 @@
 ---
 title: "SafeQL: a developer tool for GraphQL API Security and Performance Testing"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "SafeQL is an easy-to-use web-based GUI for GraphQL API security and performance testing. It allows users to test the performance of their GraphQL API by displaying a query's response time (upcoming metrics to include status code, overhead, throughput, and load capacity.) It also tests if their GraphQL API is protected against DDOS attacks."
 coverImage: "/assets/blog/hello-world/sand_with_design_mariko_iwata.jpg"
 caption: "Sand with patterns c.2024 "
 date: "2024-06-16T05:35:07.322Z"
@@ -10,10 +10,20 @@ ogImage:
   url: "/assets/blog/hello-world/sand_with_design_mariko_iwata.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+SafeQL is an easy-to-use web-based GUI for GraphQL API security and performance testing. It allows users to test the performance of their GraphQL API by displaying a query's response time (upcoming metrics to include status code, overhead, throughput, and load capacity.) It also tests if their GraphQL API is protected against DDOS attacks.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## The Tech Stack & Reasoning
 
-## Lorem Ipsum
+### Next.js
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+### React/TypeScript
+
+### ReaftFlow
+
+### CodeMirror
+
+### TailwindCSS
+
+### PostgreSQL
+
+### Testing: Jest & Cypress
