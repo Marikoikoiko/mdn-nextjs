@@ -1,15 +1,12 @@
-import Avatar from "./avatar";
 import CoverImage from "./cover-image";
-import DateFormatter from "./date-formatter";
 import { PostTitle } from "./post-title";
 type Props = {
   title: string;
   coverImage: string;
-  date: string;
   caption?: string;
 };
 
-export function PostHeader({ title, coverImage, date, caption }: Props) {
+export function PostHeader({ title, coverImage, caption }: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>

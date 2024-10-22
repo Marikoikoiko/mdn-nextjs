@@ -25,7 +25,6 @@ export default async function Post({ params }: Params) {
             title={post.title}
             coverImage={post.coverImage}
             caption={post.caption}
-            date={post.date}
           />
           <div className="blog-content">
             <PostBody content={content} />

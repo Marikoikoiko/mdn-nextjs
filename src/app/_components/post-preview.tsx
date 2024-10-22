@@ -1,11 +1,9 @@
 import Link from "next/link";
 import CoverImage from "./cover-image";
-import DateFormatter from "./date-formatter";
 
 type Props = {
     title: string;
     coverImage: string;
-    date: string;
     excerpt: string;
     slug: string;
 };
@@ -13,7 +11,6 @@ type Props = {
 export function PostPreview({
     title,
     coverImage,
-    date,
     excerpt,
     slug,
 }: Props) {
