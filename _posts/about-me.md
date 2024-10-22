@@ -1,13 +1,13 @@
 ---
 title: "About Me: tech projects, photography and musings"
 excerpt: "👋 I’m a Fullstack Software Engineer. I build features in React, Next.js, Typescript, REST/GraphQL on the front end and Node/Express on the back end. I love PostgreSQL databases. I work on an open source developer tool that helps developers identify security risks in their GraphQL APIs."
-coverImage: "/assets/blog/dynamic-routing/JoshuaTree2000x1000.jpg"
+coverImage: "/assets/blog/about-me/JoshuaTree2000x1000.jpg"
 caption: "Photo taken in Joshua Tree by yours truly"
 date: "2025-03-16T05:35:07.322Z"
 author:
   name: Mariko Iwata
 ogImage:
-  url: "/assets/blog/dynamic-routing/JoshuaTree2000x1000.jpg"
+  url: "/assets/blog/about-me/JoshuaTree2000x1000.jpg"
 ---
 
 
